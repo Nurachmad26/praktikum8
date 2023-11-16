@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">praktikum8</string>
+    <string name="Nama">Nama</string>
+    <string name="Alamat">Alamat</string>
+    <string name="NoTelp">NoTelp</string>
+    <string name="btn_submit">submit</string>
+    <string name="btn_back">back</string>
+</resources>
